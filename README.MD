@@ -101,3 +101,17 @@ Esto es un texto referente a una cita que pondremos debajo:
 Esto es otro texto que no se relaciona con la cita anterior, y para ello despues de una cita hay que dar dos ENTER.
 Ahora ponemos otra cita
 > Esto es otra cita.
+
+
+# Líneas Divisorias Horizontales
+Esto es un texto que será dividido por guiones medios
+
+---
+Esto es otro texto dividido. Dividido por asteriscos
+
+***
+
+Esto es otro texto dividido por guiones bajos
+
+___
+

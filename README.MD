@@ -42,3 +42,6 @@ Un ejemplo de combibaciíon de estas opciones son: *formato italico*
 - <a href="http://www.google.com">Esto es un link HTML</a>
 - [Esto es un link en markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Github](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)

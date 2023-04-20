@@ -93,3 +93,11 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Maxi  | Burgos | 12345678 |
 | Tomas | Tompson | 87654321 |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior, y para ello despues de una cita hay que dar dos ENTER.
+Ahora ponemos otra cita
+> Esto es otra cita.

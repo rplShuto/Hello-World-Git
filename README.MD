@@ -1,19 +1,20 @@
-//----Cabeceras-----
-# Cabecera H1
-## Cabecera H2
-### Cabecera H3
-#### Cabecera H4
-##### Cabecera H5
-###### Cabecera H6
+# Formatos de Cabeceras
 
-//----Underlines------
-Underline 1
+- # Cabecera H1
+- ## Cabecera H2
+- ### Cabecera H3
+- #### Cabecera H4
+- ##### Cabecera H5
+- ###### Cabecera H6
+
+# Formatos de Underline
+- Underline 1
 ------------
 
-Underline 2
+- Underline 2
 ===========
 
-//----Emphasis------
+# Formatos de Enfasís
 - formato *italica* de la primera forma.
 - formato _italica_ de la segunda forma.
 - formato **bold o strong** primera forma.
@@ -23,3 +24,16 @@ Underline 2
 
 Un ejemplo de combibaciíon de estas opciones son: *formato italico* 
  y también **formato bold** y a la vez ~~formato tachado~~
+
+
+ # Listas
+
+ - Listas Ordenadas:
+    1. Item
+    2. Item
+    3. Item
+
+- Listas Desordenadas:
+    - Item
+    - Item
+    - Item

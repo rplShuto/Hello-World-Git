@@ -1,3 +1,6 @@
+# Versión del curso
+Versión actual: v1.2.2
+
 # Formatos de Cabeceras
 
 - # Cabecera H1
